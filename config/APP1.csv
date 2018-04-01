@@ -1,0 +1,9 @@
+Fields~x1~x2~x3~x4~type
+Name~364~462~1870~347~string
+Time~364~557~1870~464~both
+Date~364~656~1870~559~both
+Respond By~462~754~1870~658~string
+Phone~372~852~1870~756~digits
+E-mail~372~947~1870~853~both
+Fax~372~1043~1870~949~both
+Message~230~1330~1770~1212~string

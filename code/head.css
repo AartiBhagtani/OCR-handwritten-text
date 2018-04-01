@@ -1,0 +1,37 @@
+body{
+  width: 100%;
+  margin: 0;
+  padding: 0;
+}
+.unordered_list{
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  overflow: hidden;
+  background-color: black;
+}
+.unordered_list li{
+  float: left;
+}
+.unordered_list li a {
+  display: block;
+  color: white;
+  text-align: center;
+  padding: 16px 16px;
+  text-decoration: none;
+}
+.p4{
+  float: right;
+  margin-top: 45px;
+  margin-right: 5px;
+}
+
+.unordered_list li a:hover {
+  background-color: #e54040;
+}
+#name{
+  color: white;
+  font-size: 34px;
+  margin-left: 5px;
+  margin-top: 25px;
+}

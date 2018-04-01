@@ -1,0 +1,10 @@
+﻿Fields~x1~x2~x3~x4~type
+Name~431~381~1910~313~string
+Job Title~431~450~1180~381~string
+Job Description~1580~450~1910~981~string
+Department~431~520~1910~450~string
+Review Period~431~590~1910~520~digits
+Employee Name~431~657~1180~590~string
+Employee ID~1580~657~1910~590~both
+Date~431~729~1910~657~date
+Manager~431~800~1910~729~string

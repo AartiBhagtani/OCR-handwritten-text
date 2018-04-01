@@ -1,0 +1,11 @@
+﻿Fields~x1~x2~x3~x4~type
+Project Name~877~375~1788~311~string
+Supervisior name~877~443~1788~375~string
+Project ID~877~507~1788~443~both
+Location~877~571~1788~507~string
+Project Description~877~635~1788~571~string
+No. of workers~877~700~1788~635~digits
+Starting date and time~877~765~1788~700~date
+Contact no.~877~830~1788~765~digits
+Ending date and time~877~895~1788~830~date
+Total cost~877~957~1788~895~digits
